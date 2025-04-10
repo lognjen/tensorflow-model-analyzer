@@ -18,7 +18,7 @@ A command-line tool for analyzing TensorFlow models and extracting basic informa
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/tensorflow-model-analyzer.git
+git clone https://github.com/lognjen/tensorflow-model-analyzer.git
 cd tensorflow-model-analyzer
 pip install -e .
 ```
